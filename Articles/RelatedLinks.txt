@@ -1,0 +1,5 @@
+a list of Relate links:
+https://www.youtube.com/watch?v=C6BfIcshUy8 - DIY Cloud Weathre Station with ESP32/ESP8266 
+https://www.instructables.com/DIY-Weather-Station-With-ESP32/ - DIY-Weather-Station-With-ESP32
+https://www.youtube.com/watch?v=xVK4bF5U2Xk - 3D Printed IoT Weather Station
+https://github.com/marcosPlaza/Ground-based-Cloud-Classification-with-Deep-Learning/blob/main/TrainTestScript.py - Ground-based-Cloud-Classification-with-Deep-Learning
